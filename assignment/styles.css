@@ -7,3 +7,7 @@ header {
 main {
     background-color: skyblue;
 }
+
+body {
+    background-image: url("record.png");
+}
